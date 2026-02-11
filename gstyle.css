@@ -1,0 +1,37 @@
+body{
+    background-image: url(web4.webp);
+    text-align: center;
+}
+.summit{
+    input{
+        width: 100px;
+        padding-top: 10px;
+        padding-bottom: 5px;
+        background-color: blueviolet;
+        color: white;
+    }
+}
+.qn1{
+    input{
+        width: 300px;
+        padding: 5px;
+    }
+}
+.qn2{
+    select{
+        padding: 5px;
+        width: 100px;
+    }
+}
+.qn3{
+    input{
+        width: 300px;
+        padding: 5px;
+    }
+}
+.qn4, .qn5{
+    input{
+        width: 300px;
+        padding: 5px;
+    }
+}

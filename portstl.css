@@ -1,0 +1,79 @@
+.home{
+    display: flex;
+    height: 10vh;
+    margin: 0%;
+    justify-content: center;
+    align-items: center;
+    
+    img{
+        margin-right: 20px;
+        padding-right: 1200px;
+    }
+}
+#aboutbody{
+    display: flex;
+    height: 100hv;
+    margin: 0%;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+
+}
+#aboutnew{
+    text-align: center;
+    font-family: 'poppins', sans-serif;
+    width: 60%;
+    padding-top: 20%;
+    background-color: black;
+    color: yellow;
+}
+.skills{
+    text-align: center;
+    list-style-position: inside;
+    margin: 0 auto;
+    ul{
+        text-align: left;
+        display: inline-block;
+    }
+}
+.rehome{
+    
+    p{
+    display: flex;
+    text-align: start;
+    justify-content: space-between;
+    color: yellow;
+    background-color: black;
+    }
+    
+    
+}
+.contact{
+    text-align: center;
+}
+html{
+    scroll-behavior: smooth;
+}
+#re{
+    background-color: black;
+}
+body{
+    background-color: #e0f2fe;
+}
+.home a{
+    text-decoration: none;
+    color:#4f46e5;
+    transition: 0.3s;
+}
+
+.home a:hover{
+    color: black;
+}
+.rehome a{
+    text-decoration: none;
+    color:#4f46e5;
+    transition: 0.3s;
+}
+.rehome a:hover{
+    color: black;
+}
